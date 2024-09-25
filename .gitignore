@@ -55,3 +55,4 @@ Thumbs.db
 
 /AbraCatabraAPI/bin/Debug/net5.0
 /AbraCatabraAPI/obj
+API/appsettings.json
